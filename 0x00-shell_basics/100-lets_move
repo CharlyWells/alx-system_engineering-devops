@@ -1,2 +1,2 @@
 #!/bin/bash    
-mv uppercase.html /tmp/
+mv [[:upper:]]* /tmp/u
