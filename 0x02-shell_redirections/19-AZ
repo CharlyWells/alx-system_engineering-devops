@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-c' 'Z-e' < 19-AZ.txt
+tr 'A-c' 'Z-e' 
